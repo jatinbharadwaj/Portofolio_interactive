@@ -2,63 +2,65 @@ $(document).ready(function() {
   // MODAL
   var modalText = {
     discover: {
-      title: 'ChowNow Discover',
-      tag: 'FOOD ORDERING PLATFORM.',
+      title: 'Identity Ownership Management',
+      tag: 'Blockchain Smart contract Javascript',
       detail:
-        'ChowNow Discover is a platform that lets customers discover new local restaurants and provides business owners with tools to convert first time orders into lifelong diners.',
-      link: 'https://eat.chownow.com/'
+        'Blockchain driven application that prevents data leaks from companies and performs validation and verification of individuals(KYC process) by keeping the record of accessing the data of the customer in the form of transactions in a block of the blockchain' ,
+      link: 'https://github.com/jatinbharadwaj/IOM'
     },
     ordering: {
-      title: 'ChowNow Ordering Web',
-      tag: 'WHITE-LABEL ONLINE ORDERING SOLUTION.',
+      title: 'Babble -A social media app',
+      tag: 'Django ReactJS Python JavaScript Bootstrap MySQl',
       detail:
-        'ChowNow is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.',
-      link: 'https://direct.chownow.com/direct/195/locations/260'
+      'A twitter like web application with basic functionalities like tweets, comments, likes, follow and followers, It is a microblogging social media app similar to twitter. Backend is developed using Django and REST Framework and frontend is developed using ReactJS and BootStrap having all the basic features of microblogging social media app ',
+      link: 'https://babble-social-media.herokuapp.com/'
     },
     newrelic: {
-      title: 'NewRelic.com',
-      tag: 'APPLICATION PERFORMANCE MONITORING.',
+      title: 'Breathe',
+      tag: 'IOT Android',
       detail:
-        'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.newrelic.com'
+      'Growing up in delhi which is also entitled as the most polluted capital in the world, we have a firsthand experience of living essentially in a gas chamber. Hence we are targeting air pollution as ',
+      link: 'https://github.com/jatinbharadwaj/Breathe'
     },
     roambi: {
-      title: 'Roambi.com',
-      tag: 'BUSINESS ANALYTICS.',
+      title: 'Dr.Spoof',
+      tag: 'Cybersecurity Shell ',
       detail:
-        'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
-      link: 'http://www.roambi.com'
+       ' A complete tool that checks and prevents DNS as well as ARP spoofing in home routers. We plan to deliver a tool that automizes the process of detecting DNS and ARP SPOOFING in home rout',
+      link: 'https://github.com/jatinbharadwaj'
     },
     walker: {
-      title: 'WalkerTracker',
-      tag: 'PERFORMANCE METRICS.',
-      detail:
-        'Walker Tracker offers goal management, fitness tracking, and team competitions to companies for internal use. A Ruby on Rails and Javascript companion site for the Walker Tracker App. Features visual metrics and gamified progression system.'
+      title: 'Tic Tac Toe',
+      tag: 'ReactJS Javascript',
+      detail: 'Square.js- Smallest component of React Board.js- Board consist 9 small Squares Game.Js- Game consist logic of the game App.Js- Render Game.js',
+      link: 'https://github.com/jatinbharadwaj/tictactoe-reactJS'
+
     },
     powur: {
-      title: 'Powur.com',
-      tag: 'CONSUMER POWERED MARKETING.',
-      detail:
-        'Powur is a marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
+      title: 'Asteroid Game',
+      tag: 'C++ SFML',
+      detail: 'SFML library for graphics and collision detection of asteroid & space ship, bullets & Asteroid is used with c++',
+      link: 'https://github.com/jatinbharadwaj/GAME'
     },
     mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
-      detail:
-        'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.'
+      title: 'Pokedex',
+      tag: 'Javascript transitions',
+      detail:'A pokemon data and quirk guide that contains all the information regarding pokemon',
+      link:'https://github.com/jatinbharadwaj/pokedex'
     },
     never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
-      detail:
-        'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.'
+      title: 'ChatApp',
+      tag: 'WebSocket ExpressJs Sessions',
+      detail:'A chatApp using Socket.io and expressJS, User Authentication with password and username, Broadcasting to all the users and Private Chat to a username',
+      link:'https://github.com/jatinbharadwaj/ChatApp'
     },
     themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
-      detail:
-        'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.'
+      title: 'Snake Game',
+      tag: 'NodeJS Canvas',
+      detail:'A simple 90\'s game build using NodeJs and Canvas',
+      link:'https://github.com/jatinbharadwaj/SnakeGame'
+
+      
     }
   };
 
